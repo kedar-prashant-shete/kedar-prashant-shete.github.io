@@ -1,5 +1,5 @@
 ---
-layout: jekyll-theme-minimal
+layout: default
 title: Why this website ?
 ---
 # My website
