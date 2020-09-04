@@ -1,0 +1,5 @@
+<nav style="font-size:24px; color:royalblue;">
+  <a href="/" {% if page.url == "/" %}style="color: midnightblue;"{% endif %} >  My Work </a>
+  <a href="/myblog.html" {% if page.url == "/myblog.html" %}style="color: midnightblue;"{% endif %} >  My Blog  </a>
+  <a href="/leisure.html" {% if page.url == "/leisure.html" %}style="color: midnightblue;"{% endif %} >  Leisure </a>
+</nav>
