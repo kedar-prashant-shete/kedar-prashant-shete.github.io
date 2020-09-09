@@ -387,10 +387,12 @@ a {
 }
 
 h_header { 
+   max-width: 100%;
+   height: auto;
+   width: auto\9; /* ie8 */
    position: relative; 
    top: 190px; 
    left: 0; 
-   width: 100%;
    font-weight: normal;
 }
 
