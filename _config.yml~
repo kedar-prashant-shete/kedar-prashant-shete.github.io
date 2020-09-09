@@ -1,7 +1,8 @@
-#theme: jekyll-theme-minimal
 title: Kedar Prashant Shete
-description: https://www.linkedin.com/in/kedar-prashant-shete/
-logo: me.jpg
+description: My interests, research and achievements
+show_downloads: true
+theme: jekyll-theme-cayman
+
 
 gem "github-pages", group: :jekyll_plugins
 
