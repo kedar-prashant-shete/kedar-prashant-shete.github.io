@@ -378,9 +378,11 @@ a {
 }
 
 .image { 
+   max-width: 100%;
+   height: auto;
+   width: auto\9; /* ie8 */
    position: relative; 
    top: -155px;
-   width: 100%; /* @Kedar added this for overlaying image for IE 6 */
    opacity: 0.7; /*Here we set transprency for image @Kedar */
 }
 

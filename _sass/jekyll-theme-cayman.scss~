@@ -379,17 +379,17 @@ a {
 
 .image { 
    position: relative; 
-   top: 0px;
+   top: -155px;
    width: 100%; /* @Kedar added this for overlaying image for IE 6 */
    opacity: 0.7; /*Here we set transprency for image @Kedar */
 }
 
 h_header { 
    position: relative; 
-   top: 100px; 
+   top: 190px; 
    left: 0; 
    width: 100%;
-   font-weight: bold;
+   font-weight: normal;
 }
 
 
