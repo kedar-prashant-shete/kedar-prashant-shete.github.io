@@ -18,7 +18,7 @@ I study Latent Heat Thermal Energy Storage Systems(LHTES), with a focus on creat
 <br/>
 <video controls>
   <source src="./plots/video-meltingofphasechangematerial.mp4" type="video/mp4">
-Your browser does not support the video tag.
+<img src="./plots/meltingofphasechangematerial.png" alt="Browser does not support video tag" >
 </video>
 
 ### Energy Engineer
