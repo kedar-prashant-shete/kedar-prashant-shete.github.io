@@ -25,7 +25,8 @@
     <header class="page-header" role="banner">
       <div class="image">
 	<h_header class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h_header>  
-	<img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" />
+	<!--<imghead class="imghead"><img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" /></imghead>-->
+	<imghead class="imghead"> {{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" </imghead>
       </div>
 
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
