@@ -116,17 +116,17 @@ a {
   }
 
   @include medium {
-    padding: 3rem 4rem;
+    padding: 0rem 0rem;
   }
 
   @include small {
-    padding: 2rem 1rem;
+    padding: 0rem 0rem;
   }
 }
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0rem;
 
   @include large {
     font-size: 3.25rem;
@@ -167,7 +167,7 @@ a {
   }
 
   @include large {
-    max-width: 64rem;
+    max-width: 100rem; /* @Kedar set the width here to change width of content*/
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
@@ -198,7 +198,7 @@ a {
   }
 
   img {
-    /*max-width: 100%;*/
+    max-width: 100%;
   }
 
   h1,

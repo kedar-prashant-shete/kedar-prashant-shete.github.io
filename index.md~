@@ -4,13 +4,44 @@ layout: default
 
 ---
 ## About Me
-I am a mechanical engineer currently researching thermal energy storage systems. This allows me to work on the exciting confluence of the fields of fluid mechanics, heat transfer, turbulence, computational fluid dynamics(CFD), experiments in fluids and energy. I am now pursuing a PhD at the University of Massachusetts Amherst. My previous research includes Direct numerical simulations(DNS) of turbulent flows and heat transfer enhancement in fluidized beds and cyclone separators. I enjoy studying mathematics as a pleasant diversion. As part of the Industrial Assessment Center, I also visit industrial facilities in New England and reccomend energy efficiency measures. I have completed over 30 visits, and implemented reccomendations from my visits have saved customers over $1,150,852.00 annually.
 
+<img align="left" src="./me.jpg" alt="Me with the first airplane" style="max-width: 15%;height: auto;margin-right: 10px;margin-bottom: 10px;">
+
+<div style="text-align: justify">
+I am a mechanical engineer currently researching thermal energy storage systems. This allows me to work on the exciting confluence of the fields of fluid mechanics, heat transfer, turbulence, computational fluid dynamics(CFD), experiments in fluids and energy. I am now pursuing a PhD at the University of Massachusetts Amherst. My previous research includes Direct numerical simulations(DNS) of turbulent flows and heat transfer enhancement in fluidized beds and cyclone separators. I enjoy studying mathematics as a pleasant diversion. As part of the Industrial Assessment Center, I also visit industrial facilities in New England and reccomend energy efficiency measures. I have completed over 30 visits, and implemented reccomendations from my visits have saved customers over $1,150,852.00 annually.
+</div>
+
+<br clear="left"/>
 ## Work Experience
 
-### Energy Engineer
-As the lead Energy Engineer at the Industrial Assessment Center, I have conducted over 30 energy assessments and saved customers over $1,150,852.00 anually. A split up of implemented reccomendations from our center is shown, taken from [http://www.ceere.org/iac.html](http://www.ceere.org/iac.html). 
+### Research Assistant at [Center for Energy Efficiency and Renewable Energy](http://www.ceere.org/iac.html).
 
-![Types of Implemented Reccomendations](./plots/IACrecommendations.jpg "Types of Implemented Reccomendations")
+<video controls style="max-width: 50%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;">
+  <source src="./plots/video-meltingofphasechangematerial.mp4" type="video/mp4">
+<img src="./plots/meltingofphasechangematerial.png" alt="Browser does not support video tag" >
+</video>
+
+I study Latent Heat Thermal Energy Storage Systems(LHTES), with a focus on creating physics infused performance correaltions (inspired by flow physics rather than curve fit) for LHTES devices. I conduct combined numerical and experimental studies to support my hypotheses. Our research will help reduce electric demand when used in conjunction with combined heat and power plants. It shall also be used to integrate renewable energy sources like solar thermal with the grid. Our basic fluids research(conducted as part of this project) will improve our understanding of turbulent natural convection. The video shows the melting of phase change material in an LHTES shell and tube device. This is simulated using the Finite Volume Method(FVM) in ANSYS Fluent.
+
+For our project proposal entitled ***"Design of Latent Thermal Energy Storage Heat Exchangers for Combined Heat and Power Plants"***, me and my collaborators Prof. Dragoljub (Beka) Kosanovic and Prof. Steve de Bruyn Kops were awarded the **[Industrial Assessment Center (IAC) Award for Excellence in Applied Energy Engineering Research 2020](https://iac.university/studentResearchAwards)** ! Thanks to Beka and Steve for guiding me in writing this proposal.
+<br clear="left"/>
+
+### Research Assistant at [Turbulence Simulation Laboratory](https://people.umass.edu/debk/).
+
+<img align="left" src="./plots/Kedar Prashant and Steve de Bruyn Kops.png" alt="DNS reveals isosurfaces in HIT" style="max-width: 50%;height: auto;margin-right: 10px;margin-bottom: 10px;">
+
+I study turbulence and mixing using Direct Numerical Simulations (DNS). This fundamental research connects well to the 
+
+For our project proposal entitled ***"Design of Latent Thermal Energy Storage Heat Exchangers for Combined Heat and Power Plants"***, me and my collaborators Prof. Dragoljub (Beka) Kosanovic and Prof. Steve de Bruyn Kops were awarded the **[Industrial Assessment Center (IAC) Award for Excellence in Applied Energy Engineering Research 2020](https://iac.university/studentResearchAwards)** ! Thanks to Beka and Steve for guiding me in writing this proposal.
+<br clear="left"/>
+
+### Energy Engineer
+<img align="left" src="./plots/IACrecommendations.jpg" alt="Types of Implemented Reccomendations">
+<div style="text-align: justify">
+As the lead Energy Engineer at the Industrial Assessment Center, I have conducted over 30 energy assessments and saved customers over $1,150,852.00 anually. A split up of implemented reccomendations is shown, taken from
+<br />
+[http://www.ceere.org/iac.html](http://www.ceere.org/iac.html).
+</div>
+<br /><br /><br /><br />
 
 ## Research

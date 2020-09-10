@@ -2,7 +2,7 @@ title: Kedar Prashant Shete
 description: My interests, research and achievements
 show_downloads: true
 theme: jekyll-theme-cayman
-
+logo: ./thumbnail.png
 
 gem "github-pages", group: :jekyll_plugins
 

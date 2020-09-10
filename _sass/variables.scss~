@@ -1,9 +1,9 @@
 // Breakpoints
-$large-breakpoint: 64em !default;
-$medium-breakpoint: 42em !default;
+$large-breakpoint: 100rem !default;
+$medium-breakpoint: 100rem !default;
 
 // Headers
-$header-heading-color: #0066ff !default;
+$header-heading-color: #0a02b0 !default;
 $header-bg-color: #ffffff !default;
 $header-bg-color-secondary: #ffffff !default;
 
