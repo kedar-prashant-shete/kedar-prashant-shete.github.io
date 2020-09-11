@@ -4,44 +4,43 @@ layout: default
 
 ---
 ## About Me
-
-<img align="left" src="./me.jpg" alt="Me with the first airplane" style="max-width: 15%;height: auto;margin-right: 10px;margin-bottom: 10px;">
-
-<div style="text-align: justify">
-I am a mechanical engineer currently researching thermal energy storage systems. This allows me to work on the exciting confluence of the fields of fluid mechanics, heat transfer, turbulence, computational fluid dynamics(CFD), experiments in fluids and energy. I am now pursuing a PhD at the University of Massachusetts Amherst. My previous research includes Direct numerical simulations(DNS) of turbulent flows and heat transfer enhancement in fluidized beds and cyclone separators. I enjoy studying mathematics as a pleasant diversion. As part of the Industrial Assessment Center, I also visit industrial facilities in New England and reccomend energy efficiency measures. I have completed over 30 visits, and implemented reccomendations from my visits have saved customers over $1,150,852.00 annually.
+<img align="left" src="./me.jpg" alt="Me with the first airplane" style="border-radius:50%;max-width: 15%;height: auto;margin-right: 10px;margin-bottom: 10px;">
+<div style="text-align: justify"> <b>
+I am a mechanical engineer currently researching thermal energy storage systems. This allows me to work on the exciting confluence of the fields of fluid mechanics, heat transfer, turbulence, computational fluid dynamics(CFD), experiments in fluids and energy. I am now pursuing a PhD at the University of Massachusetts Amherst. My previous research includes Direct numerical simulations(DNS) of turbulent flows and heat transfer enhancement in fluidized beds and cyclone separators. I enjoy studying mathematics as a pleasant diversion. As part of the Industrial Assessment Center, I also visit industrial facilities in New England and reccomend energy efficiency measures. I have completed over 30 visits, and implemented reccomendations from my visits have saved customers over $1 million annually.</b>
 </div>
-
 <br clear="left"/>
-## Work Experience
 
-### Research Assistant at [Center for Energy Efficiency and Renewable Energy](http://www.ceere.org/iac.html) Sep 2019 to present
+## Places I have worked
 
+### Research Assistant at [Center for Energy Efficiency and Renewable Energy](http://ceere.org/research.html) Sep 2019 to present
 <video controls style="max-width: 50%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;">
   <source src="./plots/video-meltingofphasechangematerial.mp4" type="video/mp4">
 <img src="./plots/meltingofphasechangematerial.png" alt="Browser does not support video tag" >
 </video>
-
 I study Latent Heat Thermal Energy Storage Systems(LHTES), with a focus on creating physics infused performance correaltions (inspired by flow physics rather than curve fit) for LHTES devices. I conduct combined numerical and experimental studies to support my hypotheses. Our research will help reduce electric demand when used in conjunction with combined heat and power plants. It shall also be used to integrate renewable energy sources like solar thermal with the grid. Our basic fluids research(conducted as part of this project) will improve our understanding of turbulent natural convection. The video shows the melting of Phase Change Material(PCM) in an LHTES shell and tube device. This is simulated using the Finite Volume Method(FVM) in ANSYS Fluent.
-
 For our project proposal entitled ***"Design of Latent Thermal Energy Storage Heat Exchangers for Combined Heat and Power Plants"***, me and my collaborators Prof. Dragoljub (Beka) Kosanovic and Prof. Steve de Bruyn Kops were awarded the **[Industrial Assessment Center (IAC) Award for Excellence in Applied Energy Engineering Research 2020](https://iac.university/studentResearchAwards)** ! Thanks to Beka and Steve for guiding me in writing this proposal.
 <br clear="left"/>
 
 ### Research Assistant at [Turbulence Simulation Laboratory](https://people.umass.edu/debk/) Oct 2016 to Dec 2018
-
-<img align="left" src="./plots/Kedar Prashant and Steve de Bruyn Kops.png" alt="DNS reveals isosurfaces in HIT" style="max-width: 30%;height: auto;margin-right: 10px;margin-bottom: 10px;">
-
-I studied turbulence and mixing using Direct Numerical Simulations (DNS). The mixing of scalars(such as temperature or chemicals) due to fluid turbulence is an important problem for modelling combustion, turbulent jets and geophysical flows. The image shows isosurfaces of a passive scalar twisted by the high Reynolds number turbulent flow. Isosurfaces of the scalar represent area available for mixing/reaction, increased areas result in enhanced mixing and reaction rates, making their study important. This fundamental research connects well to my LHTES research because heat transfer in LHTES devices is dominated by turbulent convection in the PCM.
-
-Our results from this research are published in the **[Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)** as ***[Area of scalar isosurfaces in homogeneous isotropic turbulence as a function of Reynolds and Schmidt numbers](https://doi.org/10.1017/jfm.2019.875)***. Thanks to Steve and Gavin for help and comments ! 
+<img align="left" src="./plots/Kedar Prashant and Steve de Bruyn Kops.png" alt="DNS reveals isosurfaces in HIT" style="max-width: 50%;height: auto;margin-right: 10px;margin-bottom: 10px;">
+I studied turbulence and mixing using Direct Numerical Simulations (DNS). The mixing of scalars(such as temperature or chemicals) due to fluid turbulence is an important problem for modelling combustion, turbulent jets and geophysical flows. The image shows isosurfaces of a passive scalar twisted by the high Reynolds number turbulent flow. Isosurfaces of the scalar represent area available for mixing/reaction, increased areas result in enhanced mixing and reaction rates, making their study important. This fundamental research connects well to my LHTES research because heat transfer in LHTES devices is dominated by turbulent convection in the PCM. 
+Our results from this research are published in the **[Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)** as ***[Area of scalar isosurfaces in homogeneous isotropic turbulence as a function of Reynolds and Schmidt numbers](https://doi.org/10.1017/jfm.2019.875)*** and as my Master of Science thesis entitled [Calculation of Scalar Isosurface Area and Applications](https://scholarworks.umass.edu/masters_theses_2/854). Thanks to Steve and Gavin for help and comments ! 
 <br clear="left"/>
 
-### Energy Engineer Sep 2017 to present
-<img align="left" src="./plots/IACrecommendations.jpg" alt="Types of Implemented Reccomendations">
-<div style="text-align: justify">
-As the lead Energy Engineer at the Industrial Assessment Center, I have conducted over 30 energy assessments and saved customers over $1,150,852.00 anually. A split up of implemented reccomendations is shown, taken from 
-[http://www.ceere.org/iac.html](http://www.ceere.org/iac.html) 
-I have experience with conducting assessments independently, training new students and mentoring. 
-</div>
-<br /><br /><br /><br />
+### Energy Engineer at the [Industrial Assessment Center](http://www.ceere.org/iac.html) (IAC) Sep 2017 to present
+<img align="left" src="./plots/IACrecommendations.jpg" alt="Types of Implemented Reccomendations" style="max-width: 90%;height: auto;margin-right: 10px;margin-bottom: 10px;">
+As the lead Energy Engineer at the Industrial Assessment Center, I have conducted over 30 energy assessments and saved customers over 8.9 million MMBTU's equivalent of energy and $1,021,241 anually, metrics are available [here](./IAC_metrics_3439_20200910.xlsx), taken from the IAC portal. A split up of implemented reccomendations is shown, taken from 
+[http://www.ceere.org/iac.html](http://www.ceere.org/iac.html). I have experience with conducting assessments independently, training new students and mentoring. 
+<br clear="left"/>
+
+### Senior Engineer at [Thermax Ltd.](https://www.thermaxglobal.com/) Mar 2016 to July 2016
+<img align="left" src="./plots/air_cooled_condenser.png" alt="Air Cooled Condenser Schematic" style="max-width: 40%;height: auto;margin-right: 10px;margin-bottom: 10px;">
+As senior engineer, it was my responsibility to design an Air Cooled Condenser using the heat transfer software [HTRI](https://www.htri.net/) and validate by design procedure against experimental data for 50 existing Air Cooled Condensers across the world(provided by Thermax SPX). A schematic of an Air Cooled Condenser is shown, taken from *Dooley, R. Barry, et al. EPRI's Guideline on Chemistry for Fossil Units with Air-cooled Condensers (ACCs). EPRI, 2009.* Our focus was on focused predicting heat transfer rates for tubes at various inclinations, fin pitch and length, which is a two phase turbulent heat transfer problem, making it tough to study nuemrically. We thus approached it using standard correlations available in literature and HTRI, and tuned our formulation to match experimental results provided by Thermax SPX.  
+<br clear="left"/>
+
+### Application Engineer at [SKF Ltd.](https://www.skf.com/in) Jun 2014 to Sep 2015
+<img align="left" src="./photos/SKF Certificate.png" alt="SKF Arvind Mills Award" style="max-width: 40%;height: auto;margin-right: 10px;margin-bottom: 10px;">
+As Application Engineer at SKF India Ltd, I worked for 6 months in the aftermarket buisness, where I designed bearing systems for the aftermarket customers. After a period of 6 months, I was promoted to the OEM division, where I designed bearing and lubrication systems for manufacturers of crushers, vibrating screens, conveyors, motor and pump systems, transmission boxes, gearboxes, etc. The certificate shows an achievement award for a project I lead, entitled *"Improvement in energy efficiency of Ring Frame Spinning Machines at Arvind Mills, 2014"*.
+<br clear="left"/>
 
 ## Research
