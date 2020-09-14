@@ -392,9 +392,14 @@ h_header {
 }
 
 figure {
-  display: table;
+    display: table;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    margin-left: 0px;
 }
 figcaption {
   display: table-caption;
   caption-side: bottom;
+  color: black;
+  font-size: medium;
 }

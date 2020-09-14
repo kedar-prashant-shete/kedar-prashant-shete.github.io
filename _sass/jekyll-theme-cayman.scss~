@@ -391,3 +391,12 @@ h_header {
    left: 0px; /*tune these to get the image in correct position @Kedar*/
 }
 
+figure {
+  display: table;
+}
+figcaption {
+  display: table-caption;
+  caption-side: bottom;
+  color: black;
+  font-size: medium;
+}

@@ -13,19 +13,19 @@ I am a mechanical engineer currently researching thermal energy storage systems.
 ## Places I have worked
 
 ### Research Assistant at [Center for Energy Efficiency and Renewable Energy](http://ceere.org/research.html) Sep 2019 to present
-<figure style="max-width: 50%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
+<figure style="max-width: 50%;height: auto;float: left;">
 <video controls >
   <source src="./plots/video-meltingofphasechangematerial.mp4" type="video/mp4">
 <img src="./plots/meltingofphasechangematerial.png" alt="Browser does not support video tag" >
 </video>
-<figcaption>The video shows the melting of Phase Change Material(PCM) in an LHTES shell and tube device. This is simulated using the Finite Volume Method(FVM) in ANSYS Fluent.</figcaption>
+<figcaption >The video shows the melting of Phase Change Material(PCM) in an LHTES shell and tube device. This is simulated using the Finite Volume Method(FVM) in ANSYS Fluent.</figcaption>
 </figure>
 I study Latent Heat Thermal Energy Storage Systems(LHTES), with a focus on creating physics infused performance correaltions (inspired by flow physics rather than curve fit) for LHTES devices. I conduct combined numerical and experimental studies to support my hypotheses. Our research will help reduce electric demand when used in conjunction with combined heat and power plants. It shall also be used to integrate renewable energy sources like solar thermal with the grid. Our basic fluids research(conducted as part of this project) will improve our understanding of turbulent natural convection. 
 For our project proposal entitled ***"Design of Latent Thermal Energy Storage Heat Exchangers for Combined Heat and Power Plants"***, me and my collaborators Prof. Dragoljub (Beka) Kosanovic and Prof. Steve de Bruyn Kops were awarded the **[Industrial Assessment Center (IAC) Award for Excellence in Applied Energy Engineering Research 2020](https://iac.university/studentResearchAwards)** ! Thanks to Beka and Steve for guiding me in writing this proposal.
 <br clear="left"/>
 
 ### Research Assistant at [Turbulence Simulation Laboratory](https://people.umass.edu/debk/) Oct 2016 to Dec 2018
-<figure style="max-width: 50%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
+<figure style="max-width: 50%;height: auto;float: left;">
 <img align="left" src="./plots/Kedar Prashant and Steve de Bruyn Kops.png" alt="DNS reveals isosurfaces in HIT" >
 <figcaption> The image shows isosurfaces of a passive scalar twisted by the high Reynolds number turbulent flow. Isosurfaces of the scalar represent area available for mixing/reaction, increased areas result in enhanced mixing and reaction rates, making their study important. </figcaption>
 </figure>
@@ -34,7 +34,7 @@ Our results from this research are published in the **[Journal of Fluid Mechanic
 <br clear="left"/>
 
 ### Energy Engineer at the [Industrial Assessment Center](http://www.ceere.org/iac.html) (IAC) Sep 2017 to present
-<figure style="max-width: 90%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
+<figure style="max-width: 90%;height: auto;float: left;">
 <img align="left" src="./plots/IACrecommendations.jpg" alt="Types of Implemented Reccomendations" >
 <figcaption> A split up of implemented reccomendations.</figcaption>
 </figure>
@@ -42,32 +42,35 @@ As the lead Energy Engineer at the Industrial Assessment Center, I have conducte
 <br clear="left"/>
 
 ### Senior Engineer at [Thermax Ltd.](https://www.thermaxglobal.com/) Mar 2016 to July 2016
-<figure style="max-width: 40%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
+<figure style="max-width: 40%;height: auto;float: left;">
 	<img align="left" src="./plots/air_cooled_condenser.png" alt="Air Cooled Condenser Schematic" >
-<figcaption> A schematic of an Air Cooled Condenser is shown, taken from *Dooley, R. Barry, et al. EPRI's Guideline on Chemistry for Fossil Units with Air-cooled Condensers (ACCs). EPRI, 2009.*</figcaption>
+<figcaption> A schematic of an Air Cooled Condenser is shown, taken from <em>Dooley, R. Barry, et al. EPRI's Guideline on Chemistry for Fossil Units with Air-cooled Condensers (ACCs). EPRI, 2009.</em></figcaption>
 </figure>
 As senior engineer, I designed Air Cooled Condensers using the heat transfer software [HTRI](https://www.htri.net/) and validate by design procedure against experimental data for 50 existing Air Cooled Condensers across the world(provided by Thermax SPX). Our project was focused on predicting heat transfer rates for tubes at various inclinations, fin pitch and length, which is a two phase turbulent heat transfer problem, making it tough to study nuemrically. We thus approached it using standard correlations available in literature and HTRI, and tuned our formulation to match experimental results provided by Thermax SPX.  
 <br clear="left"/>
 
 ### Application Engineer at [SKF Ltd.](https://www.skf.com/in) Jun 2014 to Sep 2015
-<img align="left" src="./photos/SKF Certificate.png" alt="SKF Arvind Mills Award" style="max-width: 40%;height: auto;margin-right: 10px;margin-bottom: 10px;">
+<figure style="width: 40%;height: auto;float: left;"> <img align="left" src="./photos/SKF Certificate.png" alt="SKF Arvind Mills Award"> </figure>
 As Application Engineer at SKF India Ltd, I worked for 6 months in the aftermarket buisness, where I designed bearing systems for the aftermarket customers. After a period of 6 months, I was promoted to the OEM division, where I designed bearing and lubrication systems for manufacturers of crushers, vibrating screens, conveyors, motor and pump systems, transmission boxes, gearboxes, etc. The certificate shows an achievement award for a project I lead, entitled *"Improvement in energy efficiency of Ring Frame Spinning Machines at Arvind Mills, 2014"*.
 <br clear="left"/>
 
 ### Undergraduate Researcher at [BITS Pilani KK Birla Goa Campus](https://universe.bits-pilani.ac.in/goa/ranjitp/profile) Jan 2014 to Aug 2014
-<figure style="width: 30%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
-<video controls style="object-fit: fill;">
+<figure style="width: 30%;height: auto;float: left;">
+<video align="left" controls style="object-fit: fill;">
   <source src="./plots/fluidized_bed.mp4" type="video/mp4">
   <img src="./plots/fluidized_bed.png" alt="Browser does not support video tag" >
 </video>
 <figcaption>Flow in fluidized bed riser</figcaption>
 </figure>
-
-<figure style="width: 30%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
-	<img align="left" src="./plots/fluidized_bed_plates.png" alt="CFB riser and distributor plates" >
-	<figcaption>Novel design of distributor plates enhance mixing in CFB risers</figcaption>
-</figure>
 I increased the mixing and combustion efficiency in Circulating Fluidized Bed(CFB) risers using novel distributor plate designs. Circulating Fluidized Bed risers have applications in high efficiency boilers, gasifiers, combustors, dryers, power coating etc. When used as a boiler, they are accompanied by cyclone separators (to remove particulate matter prior to exhaust). Cyclone separators also have applications in the cement industry, waste water treatment, boilers technology and even vaccum cleaners. I also proposed alternative cyclone separator designs to enable heat extraction from cyclone separators, using internal fins. 
 <br clear="left"/>
+<figure>
+	<img src="./plots/fluidized_bed_plates.png" alt="CFB riser and distributor plates" style="float: left;width: 45%;height: auto;">
+	<img src="./plots/cyclone_fins.png" alt="Cyclone separator with fins" style="float: left;width: 45%;height: auto;">
+	<figcaption>Novel design of distributor plates enhance mixing in CFB risers(left). Fins on cyclone separator enable heat extraction(right).</figcaption>
+</figure>	
+<br clear="both"/>
+
+
 
 
