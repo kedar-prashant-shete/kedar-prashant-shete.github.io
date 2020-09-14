@@ -43,7 +43,7 @@ As the lead Energy Engineer at the Industrial Assessment Center, I have conducte
 
 ### Senior Engineer at [Thermax Ltd.](https://www.thermaxglobal.com/) Mar 2016 to July 2016
 <figure style="max-width: 40%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
-<img align="left" src="./plots/air_cooled_condenser.png" alt="Air Cooled Condenser Schematic" >
+	<img align="left" src="./plots/air_cooled_condenser.png" alt="Air Cooled Condenser Schematic" >
 <figcaption> A schematic of an Air Cooled Condenser is shown, taken from *Dooley, R. Barry, et al. EPRI's Guideline on Chemistry for Fossil Units with Air-cooled Condensers (ACCs). EPRI, 2009.*</figcaption>
 </figure>
 As senior engineer, I designed Air Cooled Condensers using the heat transfer software [HTRI](https://www.htri.net/) and validate by design procedure against experimental data for 50 existing Air Cooled Condensers across the world(provided by Thermax SPX). Our project was focused on predicting heat transfer rates for tubes at various inclinations, fin pitch and length, which is a two phase turbulent heat transfer problem, making it tough to study nuemrically. We thus approached it using standard correlations available in literature and HTRI, and tuned our formulation to match experimental results provided by Thermax SPX.  
@@ -54,15 +54,20 @@ As senior engineer, I designed Air Cooled Condensers using the heat transfer sof
 As Application Engineer at SKF India Ltd, I worked for 6 months in the aftermarket buisness, where I designed bearing systems for the aftermarket customers. After a period of 6 months, I was promoted to the OEM division, where I designed bearing and lubrication systems for manufacturers of crushers, vibrating screens, conveyors, motor and pump systems, transmission boxes, gearboxes, etc. The certificate shows an achievement award for a project I lead, entitled *"Improvement in energy efficiency of Ring Frame Spinning Machines at Arvind Mills, 2014"*.
 <br clear="left"/>
 
-### Undergraduate Researcher at [BITS Pilani KK Birla Goa Campus]() Jan 2014 to Aug 2014
+### Undergraduate Researcher at [BITS Pilani KK Birla Goa Campus](https://universe.bits-pilani.ac.in/goa/ranjitp/profile) Jan 2014 to Aug 2014
 <figure style="width: 30%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
 <video controls style="object-fit: fill;">
   <source src="./plots/fluidized_bed.mp4" type="video/mp4">
-<img src="./plots/fluidized_bed.png" alt="Browser does not support video tag" >
+  <img src="./plots/fluidized_bed.png" alt="Browser does not support video tag" >
 </video>
 <figcaption>Flow in fluidized bed riser</figcaption>
 </figure>
-I worked on increasing the mixing and combustion efficiency in Circulating Fluidized Bed(CFB) risers using novel distributor plate designs. Circulating Fluidized Bed risers have applications in high efficiency boilers, gasifiers, combustors, dryers, power coating etc. When used as a boiler, they are accompanied by cyclone separators (to remove particulate matter prior to exhaust). Cyclone separators also have applications in the cement industry, waste water treatment, boilers technology and even vaccum cleaners. I also worked on heat extraction from cyclone separators using internal fins.
+
+<figure style="width: 30%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
+	<img align="left" src="./plots/fluidized_bed_plates.png" alt="CFB riser and distributor plates" >
+	<figcaption>Novel design of distributor plates enhance mixing in CFB risers</figcaption>
+</figure>
+I increased the mixing and combustion efficiency in Circulating Fluidized Bed(CFB) risers using novel distributor plate designs. Circulating Fluidized Bed risers have applications in high efficiency boilers, gasifiers, combustors, dryers, power coating etc. When used as a boiler, they are accompanied by cyclone separators (to remove particulate matter prior to exhaust). Cyclone separators also have applications in the cement industry, waste water treatment, boilers technology and even vaccum cleaners. I also proposed alternative cyclone separator designs to enable heat extraction from cyclone separators, using internal fins. 
 <br clear="left"/>
 
 
