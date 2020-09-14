@@ -55,7 +55,7 @@ As Application Engineer at SKF India Ltd, I worked for 6 months in the aftermark
 <br clear="left"/>
 
 ### Undergraduate Researcher at [BITS Pilani KK Birla Goa Campus]() Jan 2014 to Aug 2014
-<figure style="width: 50%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
+<figure style="width: 30%;height: auto;float: left;margin-right: 10px;margin-bottom: 10px;margin-left: 0px;">
 <video controls style="object-fit: fill;">
   <source src="./plots/fluidized_bed.mp4" type="video/mp4">
 <img src="./plots/fluidized_bed.png" alt="Browser does not support video tag" >
