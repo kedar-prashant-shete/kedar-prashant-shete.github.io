@@ -1,5 +1,5 @@
 title: Kedar Prashant Shete
-description: My interests, research and achievements
+#description: My interests, research and achievements
 show_downloads: true
 theme: jekyll-theme-cayman
 logo: ./thumbnail.png
@@ -37,8 +37,8 @@ strict_front_matter : false
 # Filtering Content
 show_drafts         : null
 limit_posts         : 0
-future              : false
-unpublished         : false
+future              : true
+unpublished         : true
 
 # Plugins
 whitelist           : []

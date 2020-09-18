@@ -14,7 +14,7 @@ I am a mechanical engineer currently researching thermal energy storage systems.
 
 ### Research Assistant at [Center for Energy Efficiency and Renewable Energy](http://ceere.org/research.html) Sep 2019 to present
 <figure style="max-width: 50%;height: auto;float: left;">
-<video controls >
+<video controls style="width: 100%;height: auto;">
   <source src="./plots/video-meltingofphasechangematerial.mp4" type="video/mp4">
 <img src="./plots/meltingofphasechangematerial.png" alt="Browser does not support video tag" >
 </video>
@@ -60,7 +60,7 @@ As Application Engineer at SKF India Ltd, I worked for 6 months in the after mar
   <source src="./plots/fluidized_bed.mp4" type="video/mp4">
   <img src="./plots/fluidized_bed.png" alt="Browser does not support video tag" >
 </video>
-<figcaption>Flow in fluidized bed riser</figcaption>
+<figcaption>Simulation of flow in fluidized bed riser with mass inlet. The granular solid phase is tossed around by the fluid entering from the base of the riser. Additional granular material comes in through the inlet. In a Circulating Fluidized Bed(CFB) boiler, the granular phase would be coal or powdered biomass, and the returning mass inlet would be unburnt fuel separated from the exhaust by the cyclone separator(not in figure). This feature makes CFB boilers more efficient than their counterparts.</figcaption>
 </figure>
 I increased the mixing and combustion efficiency in Circulating Fluidized Bed(CFB) risers using novel distributor plate designs. Circulating Fluidized Bed risers have applications in high efficiency boilers, gasifiers, combustors, dryers, power coating etc. When used as a boiler, they are accompanied by cyclone separators (to remove particulate matter prior to exhaust). Cyclone separators also have applications in the cement industry, waste water treatment, boilers technology and even vacuum cleaners. I also proposed alternative cyclone separator designs to enable heat extraction from cyclone separators, using internal fins. Our results were published as [Effect of Novel Swirling Perforated Distributor on Fluid Dynamic Characteristics of Circulating Fluidized Bed Riser](https://doi.org/10.1115/POWER2016-59165) and two conference papers at [5th International Conference on Fluid Mechanics and Fluid Power (FMFP 2014)](./FMFP_Merged_Papers.pdf)
 <br clear="left"/>
