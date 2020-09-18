@@ -1,0 +1,29 @@
+; read case in the current directory
+/file/read-case longeon13.cas
+; start transcript file 
+/file/start-transcript outputfile.trn
+
+; CHANGE/CONFIRM BEFORE RUNNING SCRIPT, the inputs are values or yes/no questions depending on the order they show up in fluent TUI interface for this case. 
+
+; Set thermal conductivity of heat transfer fluid 
+/define/materials/change-create water-liquid water-liquid no no yes constant 0.5 no no no no no no no
+/define/materials/change-create rt35-rubitherm rt35-rubitherm no no yes constant 0.5 no no no no no no no
+
+; Set inlet velocity and temperature
+/define/boundary-conditions/velocity-inlet sf_inlet no no yes yes no 0.01 no 0 no 328.15
+
+; run case in current directory
+; Initialize Flow
+/solve/initialize/initialize-flow
+
+; Write case summary
+/report/summary yes report.sum
+
+; Iterate
+/solve/dual-time-iterate 600000 200
+
+; save case and data in current directory
+/file/write-case-data longeon13.cas ok
+
+; exit fluent
+exit
