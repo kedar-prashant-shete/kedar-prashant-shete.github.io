@@ -1,0 +1,29 @@
+---
+layout: post
+---
+
+In this one, we shall obsess over plotting and LaTex. Microsoft Word enthusiasts, you have been warned!
+
+So lets talk about scientific writing. It tends to be fussy. Very fussy. The font needs to be just right, the layout just perfect. Most journals will supply a "Guide for Authors" that rivals the size of typical journal papers. 
+Have a look at [this](https://www.elsevier.com/journals/applied-energy/0306-2619/guide-for-authors), or [this](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/information/instructions-contributors). 
+Some others journals have simply given up, and in those journals, you will see figures with tiny font, and the font in the document will be different from that in the figure, they will have bitmapped figures that are blurred out, etc.
+<figure style="max-width: 30%;height: auto;float: left;">
+<img align="left" src="/plots/badplot.png" alt="bad plot" >
+<figcaption> A messy plot. The fonts in the text and the figure are not the same. Since the figure is bitmapped (even in the original article), the apect ratio is screwed up because of the resizing. </figcaption>
+</figure>
+<figure style="max-width: 100%;height: auto;float: left;">
+<img align="left" src="/plots/goodplot.png" alt="good plot" >
+<figcaption> A clean plot. All fonts match. The original figure in the article is vectorized, so the text adjusts automatically on resizing the figure, which means perfect aspect ratio. </figcaption>
+</figure>
+Why point fingers? Here's a figure from one of my own papers that has this issue, some text from the paper is pasted below the figure, and you notice that none of the font types/sizes match, and the overall effect is messy
+(I blurred out some text from the plots to protect the anonymity of my coauthors).
+<br clear="left"/>
+
+
+
+
+
+
+* [sample.m](/code/preprocessing.m)
+
+
