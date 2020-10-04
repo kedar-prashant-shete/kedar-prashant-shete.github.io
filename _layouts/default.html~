@@ -24,7 +24,7 @@
 
     <header class="page-header" >
       <div class="image"> 
-	<img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" style="max-width: 100%;height: auto;position: absolute;top: 0%;left: 0%;opacity: 0.4;z-index: -1;"/>
+	<img src="{{ page.image | default: site.logo }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" style="max-width: 100%;height: auto;position: absolute;top: 0%;left: 0%;opacity: 0.2;z-index: -1;"/>
 	<h_header class="project-name" style="position: relative;top: 0px;">{{ page.title | default: site.title | default: site.github.repository_name }}</h_header>  
 	
       </div> 

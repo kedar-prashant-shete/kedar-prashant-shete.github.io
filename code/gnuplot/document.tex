@@ -1,0 +1,27 @@
+\documentclass[12pt]{article}
+\usepackage{lipsum}
+\usepackage{graphicx}
+\usepackage{listingsutf8}
+\usepackage{filecontents}
+\usepackage{color}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{multido}
+\usepackage{import}
+\usepackage[top=-0.05in]{geometry}
+
+\title{Using MATLAB and GNUPlot to create pretty figures}
+\author{Kedar Prashant Shete}
+
+\begin{document}
+\maketitle
+
+\section{Introduction}	
+\begin{figure}[h]
+	\centering
+	\input{data1.tex}
+	%\resizebox{0.5\textwidth}{!}{\input{data1.tex}}
+	\caption{ This is a test data plot to see if the fonts are the same size as in the figure. The function is $sin(x)$ and $cos(x)$.}
+\end{figure}
+
+\end{document}
