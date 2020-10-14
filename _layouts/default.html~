@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
   <body>
+    {% include mathjax.html %}
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" >
@@ -35,7 +36,7 @@
       {% endif %}
 -->
       {% if site.show_downloads %}
-        <a href="./resume_Kedar_Prashant_Shete.pdf" class="btn" >Resume</a>
+        <a href="/resume_Kedar_Prashant_Shete.pdf" class="btn" >Resume</a>
         <a href="https://www.linkedin.com/in/kedar-prashant-shete/" class="btn" >LinkedIn</a>
       {% endif %}
     </header>

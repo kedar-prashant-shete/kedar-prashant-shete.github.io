@@ -1,11 +1,12 @@
 ---
 layout: post
+excerpt_separator: <!--more-->
 ---
 
 In this one, we shall obsess over plotting and LaTex. Microsoft Word enthusiasts, you have been warned!
 
 So lets talk about scientific writing. It tends to be fussy. Very fussy. The font needs to be just right, the layout just perfect. Most journals will supply a "Guide for Authors" that rivals the size of typical journal papers. 
-Have a look at [this](https://www.elsevier.com/journals/applied-energy/0306-2619/guide-for-authors), or [this](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/information/instructions-contributors). 
+Have a look at [this one for Applied Energy](https://www.elsevier.com/journals/applied-energy/0306-2619/guide-for-authors), or [this one for Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/information/instructions-contributors). 
 Some others journals have simply given up, and in those journals, you will see figures with tiny font, and the font in the document will be different from that in the figure, they will have bit-mapped figures that are blurred out, etc.
 <figure style="max-width: 30%;height: auto;float: left;">
 <img align="left" src="/plots/badplot.png" alt="bad plot" >
@@ -20,7 +21,7 @@ that none of the font types/sizes match, and the overall effect is messy
 (I blurred out some text from the plots to protect the anonymity of my coauthors). Now compare that to Fig. 2, which does not have any of these problems. 
 The question is, how to go from making figures like Fig. 1 to figures like Fig. 2 ?  
 <br clear="left"/>
-
+<!--more-->
 So what really separates a publication quality figure from the rest ? Omitting obvious stuff like axes labels, tick marks, legends, etc., here are some other points:
 
 |                                                                          | Fig. 1   | Fig. 2  |

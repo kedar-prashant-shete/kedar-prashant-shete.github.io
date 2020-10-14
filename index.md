@@ -12,7 +12,7 @@ I am a mechanical engineer currently researching thermal energy storage systems.
 
 ## Places I have worked
 
-### Research Assistant at [Center for Energy Efficiency and Renewable Energy](http://ceere.org/research.html) Sep 2019 to present
+### Research Assistant at [Center for Energy Efficiency and Renewable Energy](http://ceere.org/research.html) from Sep 2019 to present
 <figure style="max-width: 50%;height: auto;float: left;">
 <video controls style="width: 100%;height: auto;">
   <source src="./plots/video-meltingofphasechangematerial.mp4" type="video/mp4">
@@ -20,11 +20,24 @@ I am a mechanical engineer currently researching thermal energy storage systems.
 </video>
 <figcaption >The video shows the melting of Phase Change Material(PCM) in an LHTES shell and tube device. This is simulated using the Finite Volume Method(FVM) in ANSYS Fluent.</figcaption>
 </figure>
-I study Latent Heat Thermal Energy Storage Systems(LHTES), with a focus on creating physics infused performance correlations (inspired by flow physics rather than curve fit) for LHTES devices. I conduct combined numerical and experimental studies to support my hypotheses. Our research will help reduce electric demand when used in conjunction with combined heat and power plants. It shall also be used to integrate renewable energy sources like solar thermal with the grid. Our basic fluids research(conducted as part of this project) will improve our understanding of turbulent natural convection. 
-For our project proposal entitled ***"Design of Latent Thermal Energy Storage Heat Exchangers for Combined Heat and Power Plants"***, me and my collaborators Prof. Dragoljub (Beka) Kosanovic and Prof. Steve de Bruyn Kops were awarded the **[Industrial Assessment Center (IAC) Award for Excellence in Applied Energy Engineering Research 2020](https://iac.university/studentResearchAwards)** ! Thanks to Beka and Steve for guiding me in writing this proposal.
+<figure style="max-width: 45%;height: auto;float: left;">
+<img align="left" src="/plots/3D_box.png" alt="Experimental Setup" >
+<figcaption> The 3D model shows our experimental setup. It is a square enclosure with differentially heated side walls. The cavity shall have phase
+change material. This allows us to study convection and phase change simultaneously, while allowing precise measurements of velocity, temperature and
+melting. </figcaption> 
+</figure> 
 <br clear="left"/>
+I study Latent Heat Thermal Energy Storage Systems(LHTES), with a focus on creating physics infused performance
+correlations (inspired by flow physics rather than curve fit) for LHTES devices. I conduct combined numerical and experimental studies to support my
+hypotheses. Our research will help reduce electric demand when used in conjunction with combined heat and power plants. It shall also be used to
+integrate renewable energy sources like solar thermal with the grid. Our basic fluids research(conducted as part of this project) will improve our
+understanding of turbulent natural convection.  For our project proposal entitled ***"Design of Latent Thermal Energy Storage Heat Exchangers for
+Combined Heat and Power Plants"***, me and my collaborators Prof. Dragoljub (Beka) Kosanovic and Prof. Steve de Bruyn Kops were awarded the
+**[Industrial Assessment Center (IAC) Award for Excellence in Applied Energy Engineering Research
+2020](https://iac.university/studentResearchAwards)** ! Thanks to Beka and Steve for guiding me in writing this proposal.  
 
-### Research Assistant at [Turbulence Simulation Laboratory](https://people.umass.edu/debk/) Oct 2016 to Dec 2018
+
+### Research Assistant at [Turbulence Simulation Laboratory](https://people.umass.edu/debk/) from Oct 2016 to Dec 2018
 <figure style="max-width: 50%;height: auto;float: left;">
 <img align="left" src="./plots/Kedar Prashant and Steve de Bruyn Kops.png" alt="DNS reveals isosurfaces in HIT" >
 <figcaption> The image shows isosurfaces of a passive scalar twisted by the high Reynolds number turbulent flow. Isosurfaces of the scalar represent area available for mixing/reaction, increased areas result in enhanced mixing and reaction rates, making their study important. </figcaption>
@@ -33,7 +46,7 @@ I studied turbulence and mixing using Direct Numerical Simulations (DNS). The mi
 Our results from this research are published in the **[Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)** as ***[Area of scalar isosurfaces in homogeneous isotropic turbulence as a function of Reynolds and Schmidt numbers](https://doi.org/10.1017/jfm.2019.875)*** and as my Master of Science thesis entitled [Calculation of Scalar Isosurface Area and Applications](https://scholarworks.umass.edu/masters_theses_2/854). Thanks to Steve and Gavin for help and comments ! 
 <br clear="left"/>
 
-### Energy Engineer at the [Industrial Assessment Center](http://www.ceere.org/iac.html) (IAC) Sep 2017 to present
+### Energy Engineer at the [Industrial Assessment Center](http://www.ceere.org/iac.html) (IAC) from Sep 2017 to present
 <figure style="max-width: 90%;height: auto;float: left;">
 <img align="left" src="./plots/IACrecommendations.jpg" alt="Types of Implemented Recommendations" >
 <figcaption> A split up of implemented recommendations.</figcaption>
@@ -41,7 +54,7 @@ Our results from this research are published in the **[Journal of Fluid Mechanic
 As the lead Energy Engineer at the Industrial Assessment Center, I have conducted over 30 energy assessments and saved customers over 8.9 million MMBTU's equivalent of energy and $1,021,241 annually, metrics are available [here](./IAC_metrics_3439_20200910.xlsx), taken from the IAC portal. I have experience with conducting assessments independently, training new students and mentoring. 
 <br clear="left"/>
 
-### Senior Engineer at [Thermax Ltd.](https://www.thermaxglobal.com/) Mar 2016 to July 2016
+### Senior Engineer at [Thermax Ltd.](https://www.thermaxglobal.com/) from Mar 2016 to July 2016
 <figure style="max-width: 40%;height: auto;float: left;">
 	<img align="left" src="./plots/air_cooled_condenser.png" alt="Air Cooled Condenser Schematic" >
 <figcaption> A schematic of an Air Cooled Condenser is shown, taken from <em>Dooley, R. Barry, et al. EPRI's Guideline on Chemistry for Fossil Units with Air-cooled Condensers (ACCs). EPRI, 2009.</em></figcaption>
@@ -49,12 +62,12 @@ As the lead Energy Engineer at the Industrial Assessment Center, I have conducte
 As senior engineer, I designed Air Cooled Condensers using the heat transfer software [HTRI](https://www.htri.net/) and validate by design procedure against experimental data for 50 existing Air Cooled Condensers across the world(provided by Thermax SPX). Our project was focused on predicting heat transfer rates for tubes at various inclinations, fin pitch and length, which is a two phase turbulent heat transfer problem, making it tough to study numerically. We thus approached it using standard correlations available in literature and HTRI, and tuned our formulation to match experimental results provided by Thermax SPX.  
 <br clear="left"/>
 
-### Application Engineer at [SKF Ltd.](https://www.skf.com/in) Jun 2014 to Sep 2015
+### Application Engineer at [SKF Ltd.](https://www.skf.com/in) from Jun 2014 to Sep 2015
 <figure style="width: 40%;height: auto;float: left;"> <img align="left" src="./photos/SKF Certificate.png" alt="SKF Arvind Mills Award"> </figure>
 As Application Engineer at SKF India Ltd, I worked for 6 months in the after market business, where I designed bearing systems for the after market customers. After a period of 6 months, I was promoted to the OEM division, where I designed bearing and lubrication systems for manufacturers of crushers, vibrating screens, conveyors, motor and pump systems, transmission boxes, gearboxes, etc. The certificate shows an achievement award for a project I lead, entitled *"Improvement in energy efficiency of Ring Frame Spinning Machines at Arvind Mills, 2014"*.
 <br clear="left"/>
 
-### Undergraduate Researcher at [BITS Pilani KK Birla Goa Campus](https://universe.bits-pilani.ac.in/goa/ranjitp/profile) Jan 2014 to Aug 2014
+### Undergraduate Researcher at [BITS Pilani KK Birla Goa Campus](https://universe.bits-pilani.ac.in/goa/ranjitp/profile) from Jan 2014 to Aug 2014
 <figure style="float: left;width: 50%;height: auto;">
 <video controls style="width: 100%;height: auto;">
   <source src="./plots/fluidized_bed.mp4" type="video/mp4">

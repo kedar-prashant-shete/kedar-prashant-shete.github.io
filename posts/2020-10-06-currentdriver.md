@@ -1,0 +1,19 @@
+---
+layout: post
+---
+
+Thermoelectric modules are commonly used for creating compact cooling devices. Since they are based on the Peltier effect, they are also reffered to as Peltier plates.
+The equations that govern a the flow of heat through a peltier plate are as follows:
+$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
+
+<figure style="max-width: 40%;height: auto;float: left;">
+<img align="left" src="/photos/circuit_on_table.jpg" alt="Circuit placed on desk" >
+<figcaption> This is how the circuit looks. The circuit board has to be lifted up with the clips to avoid any shorts circuits below the board. For more circuits, a wooden frame of sorts is more desirable.</figcaption>
+</figure>  
+<figure style="max-width: 100%;height: auto;float: left;">
+<img align="left" src="/plots/currentdriver.png" alt="Current driver circuit" >
+<figcaption> The current driver circuit for a Peltier plate. Specifically, the load resistance and the emitter resistance have to be comparable in magnitude to get constant current through the circuit.</figcaption>
+</figure>
+<br clear="left"/>
+
+
