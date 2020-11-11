@@ -2,16 +2,16 @@
 layout: post
 ---
 
-Thermoelectric modules are commonly used for creating compact cooling devices. Since they are based on the Peltier effect, they are also reffered to as Peltier plates.
+Thermoelectric modules are commonly used for creating compact cooling devices. Since they are based on the Peltier effect, they are also referred to as Peltier plates.
 The flow of heat through a Peltier module is proportional to the current, but the resistive
 generation of heat is proportional to the square of the current. This results in a nonlinear behavior for heat flow vs current, and for temperature vs current. Thus, for a peltier plate used as a
-cooling device, heat removal from the hot side is very important. We had to use liquid cooling for this, as can be seen in the video below. Using heatsinks was not enough, as they did not extract enough heat from the hot side.
+cooling device, heat removal from the hot side is very important. We had to use liquid cooling for this, as can be seen in the video below. Using heat sinks was not enough, as they did not extract enough heat from the hot side.
 
 <figure style="max-width: 50%;height: auto;float: left;">
 <video controls style="width: 100%;height: auto;">
   <source src="/plots/peltier_liquid_cooling_1.mp4" type="video/mp4">
 </video>
-<figcaption >Liquid cooling for Peltier modules. The cold side on the module will be used to control temeprature in a box used to study convection</figcaption>
+<figcaption >Liquid cooling for Peltier modules. The cold side on the module will be used to control temperature in a box used to study convection</figcaption>
 </figure>
 
 <figure style="max-width: 40%;height: auto;float: left;">
