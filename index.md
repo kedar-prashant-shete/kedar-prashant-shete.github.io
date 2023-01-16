@@ -36,6 +36,21 @@ Combined Heat and Power Plants"***, me and my collaborators Prof. Dragoljub (Bek
 **[Industrial Assessment Center (IAC) Award for Excellence in Applied Energy Engineering Research
 2020](https://iac.university/studentResearchAwards)** ! Thanks to Beka and Steve for guiding me in writing this proposal.  
 
+### Graduate Intern at [National Renewable Energy Laboratory](https://www.nrel.gov/) from Feb 2021 to Aug 2021
+<figure style="max-width: 50%;height: auto;float: left;">
+<video controls style="width: 100%;height: auto;">
+  <source src="./plots/small_video-Heat_Exchanger_corner.mp4" type="video/mp4">
+<img src="./plots/heat_exchanger_corner.png" alt="Browser does not support video tag" >
+</video>
+<figcaption >Seed particles show that the boundary layer in internal convection is complex, and results in flow structures that cause the transition to turbulence.</figcaption>
+</figure>
+<figure style="max-width: 45%;height: auto;float: left;">
+<img align="left" src="/plots/Heat_Exchanger_Wall.png" alt="Boundary layer in rectangular LHTES" >
+<figcaption> Transition to turbulence is caused due to flow structures </figcaption> 
+</figure> 
+<br clear="left"/>
+At NREL, I worked on the characterization of thermal resistances of PCM based thermal energy storage (TES) and the effect of convection on heat transfer rates in LHTES. 
+We published an article from my work there, **[Measuring the Maximum Capacity and Thermal Resistances in Phase-Change Thermal Storage Devices](https://doi.org/10.1016/j.est.2022.105514)**. I also verified experimentally that latent heat transfer rate is constant for a significant period, and melted fraction varies linearly with time, as predicted in earlier **[model](https://doi.org/10.1016/j.est.2021.102388)**.
 
 ### Research Assistant at [Turbulence Simulation Laboratory](https://people.umass.edu/debk/) from Oct 2016 to Dec 2018
 <figure style="max-width: 50%;height: auto;float: left;">

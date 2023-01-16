@@ -1,0 +1,23 @@
+I"<p>Thermoelectric modules are commonly used for creating compact cooling devices. Since they are based on the Peltier effect, they are also referred to as Peltier plates.
+The flow of heat through a Peltier module is proportional to the current, but the resistive
+generation of heat is proportional to the square of the current. This results in a nonlinear behavior for heat flow vs current, and for temperature vs current. Thus, for a peltier plate used as a
+cooling device, heat removal from the hot side is very important. We had to use liquid cooling for this, as can be seen in the video below. Using heat sinks was not enough, as they did not extract enough heat from the hot side.</p>
+
+<figure style="max-width: 50%;height: auto;float: left;">
+<video controls="" style="width: 100%;height: auto;">
+  <source src="/plots/peltier_liquid_cooling_1.mp4" type="video/mp4" />
+</video>
+<figcaption>Liquid cooling for Peltier modules. The cold side on the module will be used to control temperature in a box used to study convection</figcaption>
+</figure>
+
+<figure style="max-width: 40%;height: auto;float: left;">
+<img align="left" src="/photos/circuit_on_table.jpg" alt="Circuit placed on desk" />
+<figcaption> This is how the circuit looks. The circuit board has to be lifted up with the clips to avoid any shorts circuits below the board. For more circuits, a wooden frame of sorts is more desirable.</figcaption>
+</figure>
+<figure style="max-width: 100%;height: auto;float: left;">
+<img align="left" src="/plots/currentdriver.png" alt="Current driver circuit" />
+<figcaption> The current driver circuit for a Peltier plate. Specifically, the load resistance and the emitter resistance have to be comparable in magnitude to get constant current through the circuit.</figcaption>
+</figure>
+<p><br clear="left" /></p>
+
+:ET
