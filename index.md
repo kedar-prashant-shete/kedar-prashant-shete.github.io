@@ -12,7 +12,7 @@ I am a mechanical engineer currently researching thermal energy storage systems.
 
 ## Places I have worked
 
-### Research Assistant at [Center for Energy Efficiency and Renewable Energy](http://ceere.org/research.html) from Sep 2019 to present
+### Research Assistant at [Center for Energy Efficiency and Renewable Energy](http://ceere.org/research.html) from Sep 2019 to Jan 2023
 <figure style="max-width: 50%;height: auto;float: left;">
 <video controls style="width: 100%;height: auto;">
   <source src="./plots/video-meltingofphasechangematerial.mp4" type="video/mp4">
@@ -61,7 +61,7 @@ I studied turbulence and mixing using Direct Numerical Simulations (DNS). The mi
 Our results from this research are published in the **[Journal of Fluid Mechanics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics)** as ***[Area of scalar isosurfaces in homogeneous isotropic turbulence as a function of Reynolds and Schmidt numbers](https://doi.org/10.1017/jfm.2019.875)*** and as my Master of Science thesis entitled [Calculation of Scalar Isosurface Area and Applications](https://scholarworks.umass.edu/masters_theses_2/854). Thanks to Steve and Gavin for help and comments ! 
 <br clear="left"/>
 
-### Energy Engineer at the [Industrial Assessment Center](http://www.ceere.org/iac.html) (IAC) from Sep 2017 to present
+### Energy Engineer at the [Industrial Assessment Center](http://www.ceere.org/iac.html) (IAC) from Sep 2017 to Jan 2023
 <figure style="max-width: 90%;height: auto;float: left;">
 <img align="left" src="./plots/IACrecommendations.jpg" alt="Types of Implemented Recommendations" >
 <figcaption> A split up of implemented recommendations.</figcaption>
